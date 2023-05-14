@@ -1,0 +1,55 @@
+*{
+    background-color: rgb(228, 153, 182);
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.text{
+    text-align: center;
+    color: white;
+}
+
+
+.profet{
+    text-align: center;
+    color: white;
+}
+
+.steps{ 
+    font-weight: bold;
+    margin-left: 35%;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: 210px;
+}
+
+.last{
+    
+}
+
+.Because{
+    width: 250px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+}
+.name{
+    text-align: center;
+}
+
+.charge{
+    text-align: center;
+}
+
+
+
